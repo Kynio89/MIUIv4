@@ -227,7 +227,7 @@
     <string name="pick_too_many_recipients">Příliš mnoho příjemců</string>
     <string name="play">Přehrát</string>
     <string name="pref_advanced_settings_title">Pokročilá nastavení</string>
-    <string name="pref_conversation_show_avatar">Zobrazit</string>
+    <string name="pref_conversation_show_avatar">Zobrazit avatar</string>
     <string name="pref_edit_smsc_address">Nastavit číslo SMS centra</string>
     <string name="pref_key_append_signature_summary">Podpis je automaticky přidán na konec zprávy</string>
     <string name="pref_key_append_signature_title">Podpis</string>
