@@ -625,7 +625,7 @@ Protože se přenesená data měří pomocí telefonu a operátor je může úč
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="haptic_feedback_enable_title">Při dotyku vibrovat</string>
-  <string name="haptic_feedback_level">Vibration level</string>
+  <string name="haptic_feedback_level">Intenzita vibrací</string>
   <string name="hardkeyboard_category">Nastavení fyzické klávesnice</string>
   <string name="hdcp_checking_dialog_title">Nastavit chování kontroly HDCP</string>
   <string name="hdcp_checking_title">Kontrola HDCP</string>
