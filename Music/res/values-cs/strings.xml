@@ -108,7 +108,7 @@
     <string name="music_picker_title">Vyberte skladbu</string>
     <string name="search_settings_description">Umělci, alba, a skladby</string>
     <string name="search_hint">Hledat hudbu</string>
-    <string name="all_tracks">Všechny skladby</string>
+    <string name="all_tracks">Vše</string>
     <string name="menu_batch_selection">Editor</string>
     <string name="send_to">Odeslat přes</string>
     <string name="edit_id3">Upravit ID3</string>
